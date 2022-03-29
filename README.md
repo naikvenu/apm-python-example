@@ -4,8 +4,12 @@ This is a simple python example to show python instrumentation using zipkin libr
 
 # Pre-Requisites and dependencies
 
+Have python 3.0+ Version
+
 $ pip3 install flask
+
 $ pip3 install requests
+
 $ pip3 install py_zipkin
 
 # Find APM URL
